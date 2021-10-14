@@ -1,12 +1,8 @@
-# Ignore all
-*
+# fastq
+*.fq.gz
+*.fastq.gz
 
-# Unignore all with extensions
-!*.*
-
-# Unignore all dirs
-!*/
-
+# target
 target/
 
 ### Above combination will ignore all files without extension ###
